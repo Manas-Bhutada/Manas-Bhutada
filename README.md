@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manas Bhutada</h1>
 <h3 align="center">A passionate Full Stack Developer and Machine Learning Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manas-Bhutada&color=blue" alt="Profile Views" />
+</p>
+
 - 🔭 I’m currently working on **AI-driven Medical Chatbot & Gait Recognition Project**
 - 🌱 I’m currently learning **React, JavaScript, Python, and Machine Learning**
 - 👯 I’m looking to collaborate on **Full Stack & AI/ML Projects**
@@ -33,4 +37,3 @@
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manas-bhutada/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Manas-Bhutada)
-
