@@ -7,8 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Manas-Bhutada)
 
 <p align="center">
-  <img height="180em" width="450em" src="![Your GitHub Stats]("https://github-readme-stats.vercel.app/api?username=Manas-Bhutada&show_icons=true&theme=radical)
-"/>
+  <img height="180em" width="450em" src="![![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manas-Bhutada)](https://github.com/Manas-Bhutada/github-readme-stats)/>
   
 </p>
 
