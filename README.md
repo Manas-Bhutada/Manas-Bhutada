@@ -1,13 +1,39 @@
-- 👋 Hi, I’m @Manas-Bhutada
-- 👀 I’m interested in Full Stack Development and Machine Learning
-- 🌱 I’m currently learning React, JavaScript, Python and Machine Learning
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me, email : manasbhutada18@gmail.com
+<h1 align="center">Hi 👋, I'm Manas Bhutada</h1>
+<h3 align="center">A passionate Full Stack Developer and Machine Learning Enthusiast</h3>
 
-![](https://komarev.com/ghpvc/?username=Manas-Bhutada)
+- 🔭 I’m currently working on **AI-driven Medical Chatbot & Gait Recognition Project**
+- 🌱 I’m currently learning **React, JavaScript, Python, and Machine Learning**
+- 👯 I’m looking to collaborate on **Full Stack & AI/ML Projects**
+- 💬 Ask me about **MERN Stack, AI, ML**
+- 📫 How to reach me: **manasbhutada18@gmail.com**
+---
 
+### 📊 My GitHub Stats  
 <p align="center">
-  <img height="180em" width="450em" src="![![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manas-Bhutada)](https://github.com/Manas-Bhutada/github-readme-stats)/>
-  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manas-Bhutada&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Bhutada&theme=dark" />
 </p>
 
+---
+
+### 🚀 Top Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Bhutada&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manas-Bhutada&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manas-bhutada/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Manas-Bhutada)
+
+---
+
+⭐ **Star** this repo if you find it useful!
