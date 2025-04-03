@@ -22,9 +22,9 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  uses: crazy-max/ghaction-github-pages@v4
+  with:
+    target_branch: output  # Ensure the generated files go to the 'output' branch
+    keep_history: false  # Optional: Keeps only the latest animation
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
